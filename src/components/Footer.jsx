@@ -13,7 +13,9 @@ export const Footer = () => {
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
-              <a href="www.linkedin.com/in/oluwaseun-adegoke-arikeade">
+              <a
+                href="https://linkedin.com/in/oluwaseun-adegoke-arikeade"
+              >
                 <img src={navIcon1} alt="linkedIn" />
               </a>
               <a href="https://github.com/Arikeade">
